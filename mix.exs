@@ -1,4 +1,4 @@
-defmodule KV.MixProject do
+defmodule KV do
   use Mix.Project
 
   def project do

@@ -15,4 +15,6 @@ defmodule KV do
   def hello do
     :world
   end
+
+  def oi, do: :oioioi
 end
